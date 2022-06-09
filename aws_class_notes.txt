@@ -1,0 +1,14 @@
+arn:aws:iam::735163144467:user/kkurzeja
+
+AccessKey - AKIA2WKZDLEJWEAYI4FS
+
+Key - E7zxNFSg0xazu0Re55/EIAswHPQyqsJyeCp/oM1r
+
+set AWS_ACCESS_KEY_ID=AKIA2WKZDLEJWJLE5LLT
+set AWS_SECRET_ACCESS_KEY=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
+
+PS C:\Terraform_Class> terraform init
+
+[default]
+aws_access_key_id = AKIA3MTJZUNAY7RLGXHG
+aws_secret_access_key = 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
